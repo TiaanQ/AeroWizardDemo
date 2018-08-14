@@ -1,0 +1,14 @@
+D:\Projects\C#\Dot Net\Windows Forms\AeroWizardDemo\AeroWizardDemo\bin\Debug\AeroWizardDemo.exe.config
+D:\Projects\C#\Dot Net\Windows Forms\AeroWizardDemo\AeroWizardDemo\bin\Debug\AeroWizardDemo.exe
+D:\Projects\C#\Dot Net\Windows Forms\AeroWizardDemo\AeroWizardDemo\bin\Debug\AeroWizardDemo.pdb
+D:\Projects\C#\Dot Net\Windows Forms\AeroWizardDemo\AeroWizardDemo\bin\Debug\AeroWizard.dll
+D:\Projects\C#\Dot Net\Windows Forms\AeroWizardDemo\AeroWizardDemo\bin\Debug\AeroWizard.xml
+D:\Projects\C#\Dot Net\Windows Forms\AeroWizardDemo\AeroWizardDemo\obj\Debug\AeroWizardDemo.csprojAssemblyReference.cache
+D:\Projects\C#\Dot Net\Windows Forms\AeroWizardDemo\AeroWizardDemo\obj\Debug\AeroWizardDemo.Properties.Resources.resources
+D:\Projects\C#\Dot Net\Windows Forms\AeroWizardDemo\AeroWizardDemo\obj\Debug\AeroWizardDemo.csproj.GenerateResource.cache
+D:\Projects\C#\Dot Net\Windows Forms\AeroWizardDemo\AeroWizardDemo\obj\Debug\AeroWizardDemo.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Dot Net\Windows Forms\AeroWizardDemo\AeroWizardDemo\obj\Debug\AeroWizardDemo.csproj.CopyComplete
+D:\Projects\C#\Dot Net\Windows Forms\AeroWizardDemo\AeroWizardDemo\obj\Debug\AeroWizardDemo.exe
+D:\Projects\C#\Dot Net\Windows Forms\AeroWizardDemo\AeroWizardDemo\obj\Debug\AeroWizardDemo.pdb
+D:\Projects\C#\Dot Net\Windows Forms\AeroWizardDemo\AeroWizardDemo\obj\Debug\AeroWizardDemo.frmWizard.resources
+D:\Projects\C#\Dot Net\Windows Forms\AeroWizardDemo\AeroWizardDemo\bin\Debug\MetroFramework.dll
